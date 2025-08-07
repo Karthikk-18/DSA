@@ -1,1 +1,6 @@
+# Ignore all class files
+*.class
 
+# Ignore Java build folders
+bin/
+out/
